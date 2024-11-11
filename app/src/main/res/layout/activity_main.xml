@@ -25,6 +25,7 @@
             android:layout_rowWeight="1"
             android:layout_columnWeight="1"
             android:layout_margin="15dp"
+            android:backgroundTint="@color/personalizado0"
             android:text="1" />
 
         <Button
@@ -33,6 +34,7 @@
             android:layout_rowWeight="1"
             android:layout_columnWeight="1"
             android:layout_margin="15dp"
+            android:backgroundTint="@color/personalizado1"
             android:text="2" />
 
         <Button
