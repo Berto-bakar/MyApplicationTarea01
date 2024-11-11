@@ -30,4 +30,14 @@ Android Studio puede pedirte que sincronices el proyecto con los archivos de Gra
 4. Ejecutar el proyecto
 Cuando la sincronización termine, puedes ejecutar el proyecto seleccionando un dispositivo o un emulador y presionando el botón de Run (el icono de un triángulo verde).
   
-* opcion2
+* Comentqarios acerca de la tarea
+
+Presenta una tecla para cada dígito del 1 al 9 distribuidos en tres columnas y en tres filas.
+
+GridLayout: Define una cuadrícula de 3 columnas y 3 filas (android:columnCount="3" y android:rowCount="3").
+Botones: Cada botón ocupa una celda en el GridLayout.
+android:layout_width y android:layout_height en 0dp: Esto asegura que los botones ocupen el espacio disponible de forma proporcional dentro de la cuadrícula.
+layout_rowWeight y layout_columnWeight: Con el valor 1, los botones se distribuyen de forma equitativa en la pantalla.
+android:padding="15dp" ajusta el espacio entre el borde de la pantalla y el GridLayout, dejando el centro para los botones.
+
+Este diseño se ajustará a pantallas de diferentes tamaños y orientaciones. 
