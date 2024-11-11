@@ -9,17 +9,19 @@ En la pantalla de inicio, selecciona "Get from Version Control", (Desde el menú
 En la ventana que aparece, selecciona Git.
 En el campo URL, pega la URL del repositorio de GitHub que deseas clonar.
 
- 
+ https://github.com/Berto-bakar/MyApplicationTarea01.git
 
 Elige la ubicación donde deseas guardar el proyecto en tu computadora.
 Haz clic en Clone.
-3. Abrir el proyecto en Android Studio
-Si ya tienes el proyecto clonado en tu máquina:
 
+
+2. Abrir el proyecto en Android Studio
+Si ya tienes el proyecto clonado en tu máquina:
 Abre Android Studio.
 Selecciona Open desde la pantalla de inicio.
 Navega hasta la carpeta donde se encuentra el proyecto clonado y selecciona el archivo build.gradle o la carpeta raíz del proyecto.
 Android Studio configurará el proyecto automáticamente y lo abrirá.
+
 3. Sincronizar el proyecto
 Una vez que el proyecto esté abierto:
 
