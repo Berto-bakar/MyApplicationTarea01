@@ -19,7 +19,6 @@
         >
 
         <!-- Botones en una cuadrícula de 3x3 -->
-        <!-- Botones en una cuadrícula de 3x3 -->
         <Button
             android:layout_width="0dp"
             android:layout_height="0dp"
