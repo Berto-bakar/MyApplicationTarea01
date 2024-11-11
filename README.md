@@ -26,6 +26,7 @@ Android Studio configurará el proyecto automáticamente y lo abrirá.
 Una vez que el proyecto esté abierto:
 
 Android Studio puede pedirte que sincronices el proyecto con los archivos de Gradle. Haz clic en Sync Now en la barra superior para asegurarte de que todas las dependencias estén correctamente descargadas e instaladas.
+
 4. Ejecutar el proyecto
 Cuando la sincronización termine, puedes ejecutar el proyecto seleccionando un dispositivo o un emulador y presionando el botón de Run (el icono de un triángulo verde).
   
